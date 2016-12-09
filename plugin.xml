@@ -10,7 +10,7 @@
   <name>Html5Video</name>
   <description>Foo plugin description</description>
   <author>mozin25</author>
-  <repo>https://github.com/jaeger25/Html5Video.git</repo>
+  <repo>https://github.com/Puskin/Html5Video.git</repo>
   
   <js-module src="www/Html5Video.js" name="Html5Video">
     <clobbers target="plugins.html5Video" />
