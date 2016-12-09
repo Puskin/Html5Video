@@ -4,12 +4,12 @@
 -->
 <plugin xmlns="http://cordova.apache.org/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="jaeger.Html5Video"
+    id="mozin.Html5Video"
     version="1.2.2">
 
   <name>Html5Video</name>
   <description>Foo plugin description</description>
-  <author>jaeger25</author>
+  <author>mozin25</author>
   <repo>https://github.com/jaeger25/Html5Video.git</repo>
   
   <js-module src="www/Html5Video.js" name="Html5Video">
