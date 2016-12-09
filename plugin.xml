@@ -8,6 +8,7 @@
     version="1.2.2">
 
   <name>Html5Video</name>
+  <description>Foo plugin description</description>
   <author>jaeger25</author>
   <repo>https://github.com/jaeger25/Html5Video.git</repo>
   
